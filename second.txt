@@ -7,3 +7,5 @@ Creating a new branch is quick.
 Creating a new branch is quick.
 add new information
 >>>>>>> feature1
+
+git rebase test
